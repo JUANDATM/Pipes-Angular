@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
 
   nombre = 'Juan';
+  nombre2 = 'jUaN DanIel toRRes moREno';
 
   arreglo=[1,2,3,4,5,6,7,8,9,10];
 
@@ -21,7 +22,7 @@ export class AppComponent {
     nombre: 'Logan',
     clave: 'Wolverine',
     edad: 500,
-    direccion:{
+    direccion: {
       calle: 'Primera',
       casa: '19',
     }
@@ -34,4 +35,7 @@ export class AppComponent {
 
 
   fecha = new Date();
+
+
+  video = 'k76BgIb89-s';
 }
