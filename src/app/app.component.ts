@@ -38,4 +38,6 @@ export class AppComponent {
 
 
   video = 'k76BgIb89-s';
+
+  avtivar: boolean = true;
 }
